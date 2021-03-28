@@ -16,4 +16,4 @@ class Category {
   }
 }
 
-export default Category;
+export { Category };
